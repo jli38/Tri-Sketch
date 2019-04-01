@@ -1,1 +1,1 @@
-# Tri-Sketch
+# TRI6
